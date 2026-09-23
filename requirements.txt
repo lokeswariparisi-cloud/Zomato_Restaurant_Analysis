@@ -1,0 +1,9 @@
+REQUIREMENTS FOR ZOMATO_RESTAURANT_ANALYSIS
+
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+
+
